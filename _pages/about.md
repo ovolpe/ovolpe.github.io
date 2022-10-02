@@ -1,5 +1,4 @@
 ---
-<meta name="google-site-verification" content="D-GWU3JBcRunJYFJymLnVTxcXlOi9f9g8JQy3T0E43w" />
 permalink: /
 title: "About Me"
 excerpt: "About Me"
