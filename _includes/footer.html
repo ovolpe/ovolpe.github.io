@@ -1,0 +1,27 @@
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if author.location %}
+      <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+    {% endif %}
+    {% if site.twitter.username %}
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+    {% if site.facebook.username %}
+      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="http://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Built with <a href="https://jekyllrb.com/">Jekyll</a>.</div>
