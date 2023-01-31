@@ -17,7 +17,7 @@ This version: July 2022<br>
 
 Work in Progress
 ======
-**Social Interactions Models with Random Coefficients**<br>
+**Network-Based Models with Random Coefficients**<br>
 with Magne Mogstad and Alex Torgovitsky
 <br>
 
