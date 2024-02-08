@@ -19,7 +19,7 @@ Work in Progress
 ======
 **Job Preferences, Labor Market Power, and Inequality**<br>
 
-**Network-Based Models with Random Coefficients**<br>
+**Identification of Network-Based Models with Random Coefficients**<br>
 with Magne Mogstad and Alex Torgovitsky
 <br>
 
