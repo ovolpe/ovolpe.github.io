@@ -11,14 +11,14 @@ Working Papers
 ======
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi_paper.pdf)<br>
-This version: February 2024. [*Supplemental Appendix*](/files/dcwgsi_supplement.pdf)<br>
+This version: February 2024; [*Supplemental Appendix*](/files/dcwgsi_supplement.pdf)<br>
 **Presentations:** North American UEA Meeting (2022)
 <br><br>
 
 Work in Progress
 ======
 **Job Preferences, Labor Market Power, and Inequality**<br>
-Job Market Paper.<br>
+(Job Market Paper)<br>
 
 **Network-Based Models with Random Coefficients**<br>
 with Magne Mogstad and Alex Torgovitsky
