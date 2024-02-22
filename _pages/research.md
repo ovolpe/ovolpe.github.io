@@ -23,5 +23,5 @@ Work in Progress
 with Magne Mogstad and Alex Torgovitsky
 <br>
 
-**Partial Identification of Simultaneous Equations with Random Coefficients**<br>
+**Empirical Analysis of Linear Supply and Demand in Heterogeneous Markets**<br>
 with L. Henry de Frahan, Ingvil Gaarder, Magne Mogstad and Alex Torgovitsky
