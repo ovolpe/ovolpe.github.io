@@ -11,7 +11,8 @@ Working Papers
 ======
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi_paper.pdf)<br>
-_Submitted._ This version: February 2024; [*Supplemental Appendix*](/files/dcwgsi_supplement.pdf)<br>
+This version: February 2024; [*Supplemental Materials*](/files/dcwgsi_supplement.pdf)<br>
+_Under Review;_ [*Submitted Version*](/files/dcwgsi_paper_ECTA.pdf) and [*Online Appendix*](/files/dcwgsi_supplement_ECTA.pdf)<br>
 **Presentations:** North American UEA Meeting (2022)
 <br><br>
 
