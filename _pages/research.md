@@ -18,7 +18,7 @@ _Under Review;_ [*Submitted Version*](/files/dcwgsi_paper_ECTA.pdf) and [*Online
 
 Work in Progress
 ======
-**Job Preferences, Labor Market Power, and Inequality**<br>
+**Job Preferences, Labor Market Power, and Inequality** (Draft Coming Soon) <br>
 
 **Identification of Network-Based Models with Random Coefficients**<br>
 with Magne Mogstad and Alex Torgovitsky
