@@ -13,10 +13,10 @@ I taught econometrics at the University of Chicago. My course materials are prov
 
 **ECON 21020 &ndash; Econometrics (Autumn 2021)**
 <ul><li>Syllabus (<div class="dropdown">
-  <a href="/files/teaching/syllabus.pdf"><button class="dropbtn">click here</button></a>
+  <a href="/files/teaching/syllabus.pdf"><button class="dropbtn">linked here</button></a>
   </div>) </li>
   <li>Lectures (<div class="dropdown">
-  <button class="dropbtn">click here</button>
+  <button class="dropbtn">linked here</button>
   <div class="dropdown-content">
     <a href="/files/teaching/lecture1.pdf">Lecture 1</a>
     <a href="/files/teaching/lecture2-3.pdf">Lecture 2-3</a>
@@ -29,7 +29,7 @@ I taught econometrics at the University of Chicago. My course materials are prov
     <a href="/files/teaching/lecture16-17.pdf">Lecture 16-17</a>
   </div></div>) </li>
   <li>Exams (<div class="dropdown">
-  <button class="dropbtn">click here</button>
+  <button class="dropbtn">linked here</button>
   <div class="dropdown-content">
     <a href="/files/teaching/midtermexam.pdf">Midterm Exam</a>
     <a href="/files/teaching/finalexam.pdf">Final Exam</a>
