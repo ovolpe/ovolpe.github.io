@@ -11,7 +11,7 @@ author_profile: false
 ## **Job Preferences, Labor Market Power, and Inequality**
 _Job Market Paper (Draft Coming Soon)_ <br>
 
-**Abstract:** I analyze how a firm's labor market power is shaped by its workforce composition and evaluate the implications for welfare and inequality. Using matched worker-firm panel data from Norway (1995-2018), I develop, identify, and estimate an equilibrium model that integrates labor market frictions with individual variation in workers' trade-offs between wages and non-wage job attributes. The model captures a rich set of worker sorting patterns, showing that wage markdowns and rents vary with the composition of a firm’s workforce. This variation leads to large allocative inefficiency, with welfare losses from imperfect competition estimated at 9.5% relative to the competitive benchmark.
+**Abstract:** I analyze how an employer's labor market power is shaped by its workforce composition and evaluate the implications for welfare and inequality. Using matched worker-firm panel data from Norway (1995-2018), I develop, identify, and estimate an equilibrium model that integrates labor market frictions with individual variation in workers' trade-offs between wages and non-wage job attributes. The model captures a rich set of worker sorting patterns, showing that wage markdowns and rents vary with the composition of a firm’s workforce. This variation leads to large allocative inefficiency, with welfare losses from imperfect competition estimated at 9.5% relative to the competitive benchmark.
 
 
 ## [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi_paper.pdf)
