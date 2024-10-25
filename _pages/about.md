@@ -12,4 +12,8 @@ redirect_from:
 
 **I am on the 2024-2025 academic job market.** A draft of my job market paper will be posted soon to this website. If you would like to contact me, my email address is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago.edu</a>.
 
----
+
+
+<hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
+
+# Research
