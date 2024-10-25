@@ -13,6 +13,7 @@ _Job Market Paper (Draft Coming Soon)_ <br>
 
 **Abstract:** I analyze how an employer's labor market power is shaped by its workforce composition and evaluate the implications for welfare and inequality. Using matched worker-firm panel data from Norway (1995-2018), I develop and estimate an equilibrium model that integrates labor market frictions with individual variation in workers' trade-offs between wages and non-wage job characteristics. The model captures a rich set of worker sorting patterns, causing wage markdowns and rents to vary with the composition of a firm's workforce. I find that this variation leads to substantial allocative inefficiency, with welfare losses from imperfect competition estimated at 9.5% relative to the competitive benchmark.
 
+<br>
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi_paper.pdf) <br>
 _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwgsi_supplement.pdf)<br>
@@ -21,8 +22,10 @@ _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwg
 
 **Presentations:** North American UEA Meeting (2022)
 
+<br>
+
 [**Empirical Analysis of Linear Supply and Demand in Heterogeneous Markets**](https://ovolpe.github.io/research) <br>
-with L. Henry de Frahan, Ingvil Gaarder, Magne Mogstad and Alex Torgovitsky
+(with L. Henry de Frahan, [Ingvil Gaarder](https://sites.google.com/site/ingvilgaarder), [Magne Mogstad](https://sites.google.com/site/magnemogstad), and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 **Abstract:** We modify the classic linear supply and demand system to allow for the coefficients on price to be unobservable random variables that vary across heterogeneous markets. Known conditions for point identification put strong demands on the available instruments. We show how to construct and estimate bounds on scalar target parameters that are valid for any type of instrument, or even with no instrument at all. Numerical simulations calibrated to a well-known data set show that the bounds can be remarkably informative even under limited instrument variation. We apply our approach to estimating the average elasticity of supply and demand in US retail and the welfare effect of sales taxes.
 
@@ -35,5 +38,5 @@ Work in Progress
 ======
 
 **Identification of Network-Based Models with Random Coefficients** (Draft Coming Soon) <br>
-with Magne Mogstad and Alex Torgovitsky
+(with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 <br>
