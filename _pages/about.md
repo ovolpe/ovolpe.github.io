@@ -20,7 +20,6 @@ To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
 # Working Papers
-
 ## **Job Preferences, Labor Market Power, and Inequality**
 _Job Market Paper (Draft Coming Soon)_ <br>
 
@@ -35,9 +34,7 @@ _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwg
 **Presentations:** North American UEA Meeting (2022)
 <br><br>
 
-Work in Progress
-======
-
+# Work in Progress
 **Identification of Network-Based Models with Random Coefficients** (Draft Coming Soon) <br>
 with Magne Mogstad and Alex Torgovitsky
 <br>
