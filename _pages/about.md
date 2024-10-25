@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 h1, h2, h3 {
-    margin-bottom: 0.5em; /* Adjust this value as needed */
+    margin-bottom: 0em;
 }
 </style>
 
