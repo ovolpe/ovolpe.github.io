@@ -22,6 +22,10 @@ _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwg
 **Presentations:** North American UEA Meeting (2022)
 <br><br>
 
+<br style="clear: both;">
+
+<hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
+
 Work in Progress
 ======
 
