@@ -39,14 +39,14 @@ This paper explores how identity influences group behavior through social intera
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](https://ovolpe.github.io) <br>
+[**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](https://ovolpe.github.io/) <br>
 (with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 We study a large class of linear simultaneous equations models where agents are influenced by the average outcome of their peers. The classic linear-in-means model imposes strict homogeneity on the endogenous interaction effects, yielding testable implications that can easily be examined in data. We relax these restrictions to allow for both positive and negative interaction effects that vary within and across groups. We show that these extensions allow us to characterize a wide range of economic behaviors beyond peer effects, including joint labor supply decisions within households and strategic interactions among firms. We demonstrate how to interpret OLS and IV regressions under this generalized framework. While these methods do not lead to point identification, they can still be used to place meaningful bounds on key economic quantities. We apply these results to two economic applications: classroom peer effects in Kenyan primary schools and strategic interactions among cocoa traders in Sierra Leone. In each application, we reject homogenous endogenous interaction effects and estimate bounds on quantities of interest under heterogenous effects.
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**Empirical Analysis of Linear Supply and Demand in Heterogeneous Markets**](https://ovolpe.github.io) <br>
+[**Empirical Analysis of Linear Supply and Demand in Heterogeneous Markets**](https://ovolpe.github.io/) <br>
 (with L. Henry de Frahan, [Ingvil Gaarder](https://sites.google.com/site/ingvilgaarder), [Magne Mogstad](https://sites.google.com/site/magnemogstad), and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 We modify the classic linear supply and demand system to allow for the coefficients on price to be unobservable random variables that vary across heterogeneous markets. Known conditions for point identification put strong demands on the available instruments. We show how to construct and estimate bounds on scalar target parameters that are valid for any type of instrument, or even with no instrument at all. Numerical simulations calibrated to a well-known data set show that the bounds can be remarkably informative even under limited instrument variation. We apply our approach to estimating the average elasticity of supply and demand in US retail and the welfare effect of sales taxes.
