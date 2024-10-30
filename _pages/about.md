@@ -17,3 +17,7 @@ To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago
 <br style="clear: both;">
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
+
+## Job Market Paper
+
+Job Preferences, Labor Market Power, and Inequality
