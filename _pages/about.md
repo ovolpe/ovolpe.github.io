@@ -16,7 +16,7 @@ I am a PhD candidate in Economics at the University of Chicago. I mainly study t
 
 My CV is linked [here](/files/cv.pdf).
 
-You can contact me by email: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago.edu</a>.
+To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago.edu</a>.
 
 <br style="clear: both;">
 
