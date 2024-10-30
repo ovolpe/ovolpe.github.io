@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">I am a PhD candidate in Economics at the University of Chicago. My research interests are in public and labor. My work explores how policies interact with labor markets and other economic networks.
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">
+
+I am a PhD candidate in Economics at the University of Chicago. I primarily study topics in labor. My secondary fields are econometrics, industrial organization, and public economics.
 
 To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago.edu</a>.
 
