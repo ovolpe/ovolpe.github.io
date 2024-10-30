@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Oscar Volpe <img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">
+<h1 style="margin-bottom: 0;">Oscar Volpe</h1><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">
 
 I am a PhD candidate in Economics at the University of Chicago. My work primarily studies topics in labor. My secondary fields are econometrics, industrial organization, and public economics.
 
