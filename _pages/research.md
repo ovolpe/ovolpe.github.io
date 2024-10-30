@@ -2,7 +2,7 @@
 layout: archive
 permalink: /research/
 author_profile: false
-published: false
+published: true
 ---
 
 {% include base_path %}
