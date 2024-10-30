@@ -14,3 +14,11 @@
 .container .content {
     display: none;
     padding : 5px;
+
+h1 {
+    margin-bottom: 10px; /* Adjust the value as needed */
+}
+
+h2 {
+    margin-bottom: 8px; /* For h2 headers, adjust accordingly */
+}
