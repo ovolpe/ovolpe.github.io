@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "Oscar Volpe"
-excerpt: "Oscar Volpe"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">I am a PhD candidate in Economics at the University of Chicago. I study topics in labor, and my secondary fields are econometrics, industrial organization, and public economics.
+## Oscar Volpe<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">
+
+I am a PhD candidate in Economics at the University of Chicago. I study topics in labor, and my secondary fields are econometrics, industrial organization, and public economics.
 
 To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago.edu</a>.
 
