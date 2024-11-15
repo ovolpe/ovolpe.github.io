@@ -49,7 +49,7 @@ We study peer effects in linear-in-means models with heterogeneous interaction e
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**Linear Supply and Demand in Heterogeneous Markets**](https://ovolpe.github.io/) <br>
+[**Linear Supply and Demand in Heterogeneous Markets**](/files/lsdhm_paper.pdf) <br>
 (with L. Henry de Frahan, [Ingvil Gaarder](https://sites.google.com/site/ingvilgaarder), [Magne Mogstad](https://sites.google.com/site/magnemogstad), and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 We modify the classic linear supply and demand system to allow for the coefficients on price to be unobservable random variables that vary across heterogeneous markets. Known conditions for point identification place strong requirements on the available instruments. We show how to construct and estimate bounds on scalar target parameters that are valid for any type of instrument, or even with no instrument at all. Numerical simulations calibrated to a well-known data set show that the model is not point identified. However, the bounds can be remarkably informative even under limited instrument variation. We apply our approach to study the welfare effects of sales tax.
