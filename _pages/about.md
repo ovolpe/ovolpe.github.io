@@ -25,7 +25,7 @@ To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago
 ## Job Market Paper
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
-_This Version: October 2024_; [*Supplemental Materials*](/files/jmp_supplement.pdf)<br>
+_This Version: November 2024_; [*Supplemental Materials*](/files/jmp_supplement.pdf)<br>
 
 I analyze how a firm's labor market power shapes, and is shaped by, its workforce, and I evaluate the implications for welfare and inequality. Using matched worker-firm panel data from Norway (1995-2018), I develop, identify, and estimate an equilibrium model of the labor market where firms compete with one another for workers who are heterogeneous in both their skills and preferences over wages versus non-wage job amenities. I allow the wage-amenity trade-offs to be correlated with skills, while also varying among equally skilled workers. When a firm adjusts its wages, the composition of its workforce shifts, and these compositional changes, in turn, affect the labor supply curve to the firm. As a result, the firm's wage-setting power varies based on which types of workers it employs. I find that this variation leads to large allocative inefficiency, with welfare losses from imperfect competition estimated at 9.5% relative to the competitive benchmark.
 
