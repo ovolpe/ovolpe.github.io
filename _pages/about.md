@@ -12,8 +12,6 @@ redirect_from:
 
 I am a PhD candidate in Economics at the University of Chicago. I mainly study topics in labor, and my secondary research fields are econometrics, industrial organization, and public economics.
 
-**I am on the 2024-2025 academic job market.** 
-
 My CV is linked [here](/files/cv.pdf).
 
 To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago.edu</a>.
