@@ -12,6 +12,8 @@ redirect_from:
 
 I am a PhD candidate in Economics at the University of Chicago. I mainly study topics in labor, and my secondary research fields are econometrics, industrial organization, and public economics.
 
+I will join Harvard University as an Assistant Professor of Economics in July 2026, following a postdoctoral fellowship in the department.
+
 My CV is linked [here](/files/cv.pdf).
 
 To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago.edu</a>.
@@ -20,16 +22,14 @@ To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-## Job Market Paper
+## Working Papers
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
-_This Version: November 2024_; [*Supplemental Materials*](/files/jmp_supplement.pdf)<br>
+_Job Market Paper_; [*Supplemental Materials*](/files/jmp_supplement.pdf)<br>
 
 I analyze how a firm's labor market power shapes, and is shaped by, its workforce, and I evaluate the implications for welfare and inequality. Using matched worker-firm panel data from Norway (1995-2018), I develop, identify, and estimate an equilibrium model of the labor market where firms compete with one another for workers who are heterogeneous in both their skills and preferences over wages versus non-wage job amenities. I allow the wage-amenity trade-offs to be correlated with skills, while also varying among equally skilled workers. When a firm adjusts its wages, the composition of its workforce shifts, and these compositional changes, in turn, affect the labor supply curve to the firm. As a result, the firm's wage-setting power varies based on which types of workers it employs. I find that this variation leads to large allocative inefficiency, with welfare losses from imperfect competition estimated at 9.5% relative to the competitive benchmark.
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
-
-## Working Papers
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi_paper.pdf) <br>
 _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwgsi_supplement.pdf)<br>
