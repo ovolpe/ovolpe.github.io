@@ -41,3 +41,9 @@ _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwg
 
 <br style="clear: both;">
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
+
+<style>
+.page__content {
+  max-width: 850px;
+}
+</style>
