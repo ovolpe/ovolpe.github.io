@@ -11,7 +11,7 @@ redirect_from:
 ## Oscar Volpe<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">
 
 <p style="font-size: 0.9em;">
-Welcome! I am an economist studying topics in **labor**. My work draws on econometrics, public economics, and industrial organization.
+Welcome! I am an economist studying topics in labor. My work also draws on econometrics, public economics, and industrial organization.
 </p>
 
 <p style="font-size: 0.9em;">
