@@ -11,12 +11,18 @@ redirect_from:
 ## Oscar Volpe<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">
 
 <p style="font-size: 0.9em;">
-Welcome! I am an economist studying topics in labor. My work also draws on econometrics, public economics, and industrial organization.
+Welcome! I am an economist studying topics in **labor**. My work draws on econometrics, public economics, and industrial organization.
+</p>
 
+<p style="font-size: 0.9em;">
 I will join Harvard University as an Assistant Professor of Economics in July 2026, following a postdoctoral fellowship in the department.
+</p>
 
-My CV is linked [here](/files/cv.pdf).
+<p style="font-size: 0.9em;">
+My CV is linked <a href="/files/cv.pdf">here</a>.
+</p>
 
+<p style="font-size: 0.9em;">
 To contact me, my email is: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.
 </p>
 
