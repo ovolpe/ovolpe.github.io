@@ -46,7 +46,5 @@ _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwg
 .page__content {
   max-width: none;
   width: 100%;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 </style>
