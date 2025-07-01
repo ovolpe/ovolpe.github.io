@@ -15,7 +15,7 @@ Welcome! I am an economist studying topics in labor. My work also draws on econo
 </p>
 
 <p style="font-size: 0.9em;">
-I will join Harvard University as an Assistant Professor of Economics in July 2026, following a postdoctoral fellowship in the department.
+I will start as an Assistant Professor of Economics at Harvard University in July 2026, following a postdoctoral fellowship in the department.
 </p>
 
 <p style="font-size: 0.9em;">
