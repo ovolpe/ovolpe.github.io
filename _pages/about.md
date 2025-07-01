@@ -10,13 +10,13 @@ redirect_from:
 
 ## Oscar Volpe<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">
 
-I am a PhD candidate in Economics at the University of Chicago. I mainly study topics in labor, and my secondary research fields are econometrics, industrial organization, and public economics.
+Welcome! I am a labor economist, and my work uses tools from econometrics and industrial organization.
 
 I will join Harvard University as an Assistant Professor of Economics in July 2026, following a postdoctoral fellowship in the department.
 
 My CV is linked [here](/files/cv.pdf).
 
-To contact me, my email is: <a href="mailto:ovolpe@uchicago.edu">ovolpe@uchicago.edu</a>.
+To contact me, my email is: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.
 
 <br style="clear: both;">
 
