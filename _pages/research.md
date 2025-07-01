@@ -20,8 +20,6 @@ _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwg
 
 This paper examines how individual identity influences group behavior through social interactions. I study a discrete choice model in which people are affected differently by different members of their network, conforming to the actions of some peers while deviating from the actions of others. Under this generalized framework, I explore what aggregate outcomes arise from noncooperative decisionmaking. I analyze uniqueness and stability of equilibria, and I characterize how negative spillovers impact social welfare. I then show how to take the model to data, introducing a novel identification strategy that leverages within-network variation in individual characteristics to account for unobserved network effects. I also show how to construct internal instruments to overcome the issue of measurement error, which is a primary source of endogeneity in models with incomplete information. Lastly, I apply my method to data from the large-scale education experiment Project STAR, where I find strong evidence that classroom peer effects differ by gender.
 
-**Presentations:** North American UEA Meeting (2022)
-
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
 [**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](/files/mto2024.pdf) <br>
