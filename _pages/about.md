@@ -10,7 +10,7 @@ redirect_from:
 
 ## Oscar Volpe<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="350">
 
-Welcome! I am a labor economist, and my work uses tools from econometrics and industrial organization.
+Welcome! I am an economist working on topics in labor. My work also draws on econometrics, public economics, and industrial organization.
 
 I will join Harvard University as an Assistant Professor of Economics in July 2026, following a postdoctoral fellowship in the department.
 
