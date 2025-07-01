@@ -44,6 +44,6 @@ _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwg
 
 <style>
 .page__content {
-  max-width: 1150px;
+  max-width: 1100px;
 }
 </style>
