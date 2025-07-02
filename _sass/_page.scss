@@ -22,7 +22,6 @@
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
-}
 
   .page__inner-wrap {
     @include full();
