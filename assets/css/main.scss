@@ -56,7 +56,7 @@ a:hover {
 .layout--page,
 .layout--single,
 .archive {
-  max-width: 1000px;  // You can go up to 1200px or more
+  max-width: 1000px; !important // You can go up to 1200px or more
   margin-left: auto;
   margin-right: auto;
   padding-left: 2rem;
