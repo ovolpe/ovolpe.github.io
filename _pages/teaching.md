@@ -37,7 +37,7 @@ I taught undergraduate econometrics (ECON 21020) at the University of Chicago. Y
 
 <br>
 
-## Teaching Assistant Positions
+<h2 style="text-decoration: underline;">TA Positions</h2>
 
 **UIS PHD401 &ndash; Econometrics (PhD)**. Instructor: [Magne Mogstad](https://sites.google.com/site/magnemogstad/).
 
