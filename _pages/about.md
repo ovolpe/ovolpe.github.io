@@ -16,7 +16,7 @@ I will join <a href="https://www.economics.harvard.edu">Harvard University</a> a
 
 My CV is linked <a href="/files/cv.pdf">here</a>.
 
-You can reach me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.
+You can contact me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.
 
 <br style="clear: both;">
 
