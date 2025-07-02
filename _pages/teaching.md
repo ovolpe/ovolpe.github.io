@@ -7,7 +7,7 @@ author_profile: false
 {% include base_path %}
 {% include dropdown_menu.html%}
 
-<h2 style="text-decoration: underline;">Courses Taught</h2>
+<h2 style="text-decoration: underline;">Course Materials</h2>
 
 I taught econometrics at the University of Chicago. You can find my course materials below.
 
