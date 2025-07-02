@@ -49,17 +49,3 @@ a:hover {
   color: #B31B1B !important;
   text-decoration: underline !important;
 }
-
-// Custom wider page layout
-.page,
-.wrapper,
-.layout--page,
-.layout--single,
-.archive {
-  max-width: 1000px;  // You can go up to 1200px or more
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
