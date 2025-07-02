@@ -12,7 +12,9 @@ author_profile: false
 I taught econometrics at the University of Chicago. You can find my course materials below.
 
 **ECON 21020 &ndash; Econometrics (Undergraduate)** [
-    <div class="dropdown"><a href="/files/teaching/syllabus.pdf"><button class="dropbtn">Syllabus</button></a></div>
+    <div class="dropdown">
+        <a href="/files/teaching/syllabus.pdf"><button class="dropbtn">Syllabus</button></a>
+    </div>
 
     <div class="dropdown">
   <button class="dropbtn">Lectures</button>
