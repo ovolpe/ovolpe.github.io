@@ -36,9 +36,8 @@ I taught econometrics at the University of Chicago. You can find my course mater
     <a href="/files/teaching/finalexam.pdf">Final Exam</a>
   </div></div> </li></ul>
 
-
-
-<br>
+<br style="clear: both;">
+<hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
 <h2 style="text-decoration: underline;">TA Positions</h2>
 
