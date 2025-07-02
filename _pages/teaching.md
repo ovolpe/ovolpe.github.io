@@ -7,9 +7,9 @@ author_profile: false
 {% include base_path %}
 {% include dropdown_menu.html%}
 
-# Teaching Positions
+## Teaching Positions
 
-I taught econometrics at the University of Chicago. My course materials are provided below.
+I taught undergraduate econometrics (ECON 21020) at the University of Chicago. You can find my course materials below.
 
 **ECON 21020 &ndash; Econometrics (Autumn 2021)**
 <ul><li>Syllabus (<div class="dropdown">
@@ -37,16 +37,12 @@ I taught econometrics at the University of Chicago. My course materials are prov
 
 <br>
 
-# Teaching Assistant Positions
+## Teaching Assistant Positions
 
-**UIS PHD401 &ndash; Econometrics (Summer 2022)** <br>
-Course taught by [Magne Mogstad](https://sites.google.com/site/magnemogstad/).
+**UIS PHD401 &ndash; Econometrics (PhD)**. Instructor: [Magne Mogstad](https://sites.google.com/site/magnemogstad/).
 
-**ECON 31200 &ndash; Econometrics (Spring 2022)** <br>
-Course taught by [Magne Mogstad](https://sites.google.com/site/magnemogstad/).
+**ECON 31200 &ndash; Econometrics (PhD)**. Instructor: [Magne Mogstad](https://sites.google.com/site/magnemogstad/).
 
-**ECON 21020 &ndash; Econometrics (Winter 2021)** <br>
-Course taught by [Joseph Hardwick](https://economics.uchicago.edu/directory/joseph-hardwick).
+**ECON 21020 &ndash; Econometrics (Undergraduate)**. Instructor: [Joseph Hardwick](https://economics.uchicago.edu/directory/joseph-hardwick).
 
-**ECMA 31000 &ndash; Intro to Empirical Analysis (Autumn 2020)** <br>
-Course taught by [Joseph Hardwick](https://economics.uchicago.edu/directory/joseph-hardwick).
+**ECMA 31000 &ndash; Intro to Empirical Analysis (Masters)**. Instructor: [Joseph Hardwick](https://economics.uchicago.edu/directory/joseph-hardwick).
