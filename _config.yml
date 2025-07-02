@@ -82,12 +82,12 @@ analytics:
 author:
   name             : # "Oscar Volpe"
   avatar           : # "profile.png"
-  bio              : # "Economics PhD Student at the University of Chicago"
-  location         : "Chicago, IL"
-  employer         :
+  bio              : "Assistant Professor of Economics"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "ovolpe@fas.harvard.edu"
   researchgate     :  
   uri              :
   bitbucket        :
