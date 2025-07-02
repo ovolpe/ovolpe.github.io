@@ -11,12 +11,12 @@ author_profile: false
 
 I taught econometrics at the University of Chicago. You can find my course materials below.
 
-**ECON 21020 &ndash; Econometrics (Undergraduate)** [
-    <div class="dropdown">
-        <a href="/files/teaching/syllabus.pdf"><button class="dropbtn">Syllabus</button></a>
-    </div>
+**ECON 21020 &ndash; Econometrics (Undergraduate)**
 
-    <div class="dropdown">
+<ul><li><div class="dropdown">
+  <a href="/files/teaching/syllabus.pdf"><button class="dropbtn">Syllabus</button></a>
+  </div> </li>
+  <li><div class="dropdown">
   <button class="dropbtn">Lectures</button>
   <div class="dropdown-content">
     <a href="/files/teaching/lecture1.pdf">Lecture 1</a>
@@ -28,14 +28,13 @@ I taught econometrics at the University of Chicago. You can find my course mater
     <a href="/files/teaching/lecture11-13.pdf">Lecture 11-13</a>
     <a href="/files/teaching/lecture14-15.pdf">Lecture 14-15</a>
     <a href="/files/teaching/lecture16-17.pdf">Lecture 16-17</a>
-  </div></div>
-
-  <div class="dropdown">
+  </div></div> </li>
+  <li><div class="dropdown">
   <button class="dropbtn">Exams</button>
   <div class="dropdown-content">
     <a href="/files/teaching/midtermexam.pdf">Midterm Exam</a>
     <a href="/files/teaching/finalexam.pdf">Final Exam</a>
-  </div></div>
+  </div></div> </li></ul>
 
 <br>
 
