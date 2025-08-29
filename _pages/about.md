@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## <span style="font-size: 1.5em;">Oscar Volpe</span><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="310">
+## <span style="font-size: 1.5em;">Oscar Volpe</span><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="320">
 
 Welcome! I am an economist studying topics in labor. My research also draws on econometrics, public economics, and industrial organization.
 
