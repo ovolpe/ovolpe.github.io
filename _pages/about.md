@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome! I am an economist studying topics in labor. My research also draws on econometrics, public economics, and industrial organization.
 
-I will join <a href="https://www.economics.harvard.edu">Harvard University</a> as an Assistant Professor of Economics in July 2026, following a one-year postdoctoral fellowship in the department.
+In July 2026, I will join <a href="https://www.economics.harvard.edu">Harvard University</a> as an Assistant Professor of Economics, following a one-year postdoctoral fellowship in the department.
 
 My CV is linked <a href="/files/cv.pdf">here</a>.
 
