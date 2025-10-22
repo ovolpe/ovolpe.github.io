@@ -17,7 +17,7 @@ I analyze how a firm's labor market power shapes, and is shaped by, its workforc
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi_paper.pdf) <br>
+[**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi2025.pdf) <br>
 _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwgsi_supplement.pdf)<br>
 
 <p style="font-size: 0.9em;">
@@ -30,7 +30,7 @@ This paper examines how individual identity influences group behavior through so
 (with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 <p style="font-size: 0.9em;">
-We study peer effects in linear-in-means models with heterogeneous interaction effects. The classical linear-in-means model imposes strict homogeneity on the interaction effects, yielding testable implications that can easily be examined in data. We relax these restrictions to allow for both positive and negative interaction effects that vary within and across groups. These extensions make the linear-in-means model suited to study a wide range of economic behaviors in addition to peer effects, including joint labor supply decisions within households and strategic interactions among firms. We analyze what can and cannot be learned from frequently used OLS and IV estimands for linear-in-means models under heterogeneous interaction effects. While these estimands do not lead to point identification, they can still be used to draw inferences about key economic quantities. We apply these results to two economic applications: classroom peer effects in Kenyan primary schools and strategic pricing decisions among cocoa traders in Sierra Leone. In each application, we reject homogenous interaction effects. Yet, we still draw meaningful inferences about endogenous interactions and social multipliers while allowing for heterogeneous interaction effects.
+We study peer effects in linear-in-means models with heterogeneous interaction effects. The classical linear-in-means model imposes strict homogeneity on the interaction effects, yielding testable implications that can be readily examined in data. We relax these restrictions to allow for both positive and negative interaction effects that vary within and across groups. This extension makes the linear-in-means model suited to study a wide range of economic behaviors in addition to peer effects, including joint labor supply decisions within households and strategic interactions among firms. We analyze what can and cannot be learned from frequently used OLS and IV estimands for linear-in-means models under heterogeneous interaction effects. While these estimands do not lead to point identification, they can still be used to draw inferences about key economic quantities. We apply these results to two economic applications: classroom peer effects in Kenyan primary schools and strategic pricing decisions among cocoa traders in Sierra Leone. In each application, we reject homogenous interaction effects. Yet, we still draw meaningful inferences about endogenous interactions and social multipliers while allowing for heterogeneous interaction effects.
 </p>
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
