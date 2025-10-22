@@ -26,7 +26,7 @@ This paper examines how individual identity influences group behavior through so
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](/files/mto2024.pdf) <br>
+[**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](/files/mtv2024.pdf) <br>
 (with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 <p style="font-size: 0.9em;">
@@ -35,7 +35,7 @@ We study peer effects in linear-in-means models with heterogeneous interaction e
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**Linear Supply and Demand in Heterogeneous Markets**](/files/lsdhm_paper.pdf) <br>
+[**Linear Supply and Demand in Heterogeneous Markets**](/files/ghmtv2024.pdf) <br>
 (with L. Henry de Frahan, [Ingvil Gaarder](https://sites.google.com/site/ingvilgaarder), [Magne Mogstad](https://sites.google.com/site/magnemogstad), and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 <p style="font-size: 0.9em;">
