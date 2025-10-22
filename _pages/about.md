@@ -28,15 +28,15 @@ You can contact me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvar
 _Job Market Paper_; [*Supplemental Materials*](/files/jmp_supplement.pdf)<br>
 
 
-[**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi_paper.pdf) <br>
+[**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi2025.pdf) <br>
 _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwgsi_supplement.pdf)<br>
 
 
-[**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](/files/mto2024.pdf) <br>
+[**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](/files/mtv2024.pdf) <br>
 (with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 
-[**Linear Supply and Demand in Heterogeneous Markets**](/files/lsdhm_paper.pdf) <br>
+[**Linear Supply and Demand in Heterogeneous Markets**](/files/ghmtv2024.pdf) <br>
 (with L. Henry de Frahan, [Ingvil Gaarder](https://sites.google.com/site/ingvilgaarder), [Magne Mogstad](https://sites.google.com/site/magnemogstad), and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 <br style="clear: both;">
