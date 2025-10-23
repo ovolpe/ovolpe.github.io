@@ -32,7 +32,7 @@ _Job Market Paper_; [*Supplemental Materials*](/files/jmp_supplement.pdf)<br>
 _Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwgsi_supplement.pdf)<br>
 
 
-[**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](/files/mtv2024.pdf) <br>
+[**The Linear-in-Means Model with Heterogeneous Interactions**](/files/mtv2024.pdf) <br>
 (with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 
