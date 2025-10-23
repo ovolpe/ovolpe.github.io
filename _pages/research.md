@@ -26,7 +26,7 @@ This paper examines how individual identity influences group behavior through so
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**Peer Effects in Linear-in-Means Models with Heterogeneous Interaction Effects**](/files/mtv2024.pdf) <br>
+[**The Linear-in-Means Model with Heterogeneous Interactions**](/files/mtv2024.pdf) <br>
 (with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 <p style="font-size: 0.9em;">
