@@ -29,7 +29,7 @@ _Job Market Paper_; [*Supplemental Materials*](/files/jmp_supplement.pdf)<br>
 
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi2025.pdf) <br>
-_Revision Requested at **Econometrica**_; [*Supplemental Materials*](/files/dcwgsi_supplement.pdf)<br>
+_Revise and Resubmit at **Econometrica**_; [*Supplemental Materials*](/files/dcwgsi_supplement.pdf)<br>
 
 
 [**The Linear-in-Means Model with Heterogeneous Interactions**](/files/mtv2024.pdf) <br>
