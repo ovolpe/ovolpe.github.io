@@ -25,7 +25,7 @@ You can contact me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvar
 ## Working Papers
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
-_Job Market Paper_; _Updated: April 2026_<br>
+_Job Market Paper_; _**Updated:** May 2026_<br>
 
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi2025.pdf) <br>
