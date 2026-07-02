@@ -35,7 +35,7 @@ We revisit the classic identification problem of separating supply and demand fo
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**The Linear-in-Means Model with Heterogeneous Interactions**](/files/mtv2024.pdf) <br>
+[**The Linear-in-Means Model with Heterogeneous Interactions**](/files/mtv.pdf) <br>
 (with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 <p style="font-size: 0.9em;">
