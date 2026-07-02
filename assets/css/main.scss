@@ -51,9 +51,11 @@ a:hover {
 }
 
 .profile-intro {
+  --profile-intro-column-gap: 24px;
+
   display: grid;
   grid-template-columns: minmax(220px, 320px) minmax(0, 1fr);
-  gap: 0 24px;
+  gap: 0 var(--profile-intro-column-gap);
   align-items: start;
   margin-bottom: 2em;
 }
