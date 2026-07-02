@@ -10,13 +10,13 @@ redirect_from:
 
 ## <span style="font-size: 1.5em;">Oscar Volpe</span><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="320">
 
-Welcome! I am an economist studying topics in labor. My research also draws on econometrics, public economics, and industrial organization.
+Welcome! I am an Assistant Professor of Economics at <a href="https://www.economics.harvard.edu">Harvard University</a>. My research studies topics in labor using tools from econometrics and industrial organization. Recent projects examine the sources of wage inequality and sorting in labor markets, as well as the identification of spillover effects in social and economic networks.
 
-I will join <a href="https://www.economics.harvard.edu">Harvard University</a> as an Assistant Professor of Economics in July 2026, after a one-year postdoctoral fellowship in the department.
-
-My CV is linked <a href="/files/cv.pdf">here</a>.
+I received my Ph.D. in Economics from the University of Chicago in 2025. My CV is linked <a href="/files/cv.pdf">here</a>.
 
 You can contact me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.
+
+I am excited to involve students in my research projects. If interested, please email me and fill out <a href="https://forms.gle/pkjh1iUREUHGBe8G6">this form</a>.
 
 <br style="clear: both;">
 
