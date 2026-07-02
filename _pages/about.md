@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-## <span style="font-size: 1.5em;">Oscar Volpe</span><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/files/headshot.jpg" width="320">
+<div class="profile-intro">
+  <img class="profile-intro__image" src="/files/headshot.jpg" alt="Oscar Volpe">
+  <div class="profile-intro__text">
+    <h2><span style="font-size: 1.5em;">Oscar Volpe</span></h2>
 
-Welcome! I am an Assistant Professor of Economics at <a href="https://www.economics.harvard.edu">Harvard University</a>. I study topics in labor using tools from econometrics and industrial organization. Recent projects explore the sources of wage inequality and sorting in labor markets, and the role of spillovers in social and economic networks. I received my Ph.D. in Economics from the University of Chicago in 2025.
+    <p>Welcome! I am an Assistant Professor of Economics at <a href="https://www.economics.harvard.edu">Harvard University</a>. I study topics in labor using tools from econometrics and industrial organization. Recent projects explore the sources of wage inequality and sorting in labor markets, and the role of spillovers in social and economic networks. I received my Ph.D. in Economics from the University of Chicago in 2025.</p>
 
-My CV is linked <a href="/files/cv.pdf">here</a>.
+    <p>My CV is linked <a href="/files/cv.pdf">here</a>.</p>
 
-You can contact me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.
+    <p>You can contact me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.</p>
 
-I am excited to involve Harvard students in my research projects. If interested, please email me and fill out <a href="https://forms.gle/pkjh1iUREUHGBe8G6">this form</a>.
+    <p>I am excited to involve Harvard students in my research projects. If interested, please email me and fill out <a href="https://forms.gle/pkjh1iUREUHGBe8G6">this form</a>.</p>
+  </div>
+</div>
 
-<br style="clear: both;">
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 

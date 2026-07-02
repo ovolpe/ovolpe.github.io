@@ -49,3 +49,29 @@ a:hover {
   color: #B31B1B !important;
   text-decoration: underline !important;
 }
+
+.profile-intro {
+  display: grid;
+  grid-template-columns: minmax(220px, 320px) minmax(0, 1fr);
+  gap: 0 24px;
+  align-items: start;
+  margin-bottom: 2em;
+}
+
+.profile-intro__image {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+}
+
+.profile-intro__text > :first-child {
+  margin-top: 0;
+}
+
+@media (max-width: 560px) {
+  .profile-intro {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
