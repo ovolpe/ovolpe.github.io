@@ -36,7 +36,7 @@ _Revise and Resubmit at **Econometrica** (2nd Round)_; [*Supplemental Materials*
 (with [L. H. de Frahan](https://sites.google.com/view/lancelothenrydefrahan/home), [Ingvil Gaarder](https://sites.google.com/site/ingvilgaarder), [Magne Mogstad](https://sites.google.com/site/magnemogstad), and [Alex Torgovitsky](https://a-torgovitsky.github.io)) <br>
 
 
-[**The Linear-in-Means Model with Heterogeneous Interactions**](/files/mtv2024.pdf) <br>
+[**The Linear-in-Means Model with Heterogeneous Interactions**](/files/mtv.pdf) <br>
 (with [Magne Mogstad](https://sites.google.com/site/magnemogstad) and [Alex Torgovitsky](https://a-torgovitsky.github.io))
 
 
