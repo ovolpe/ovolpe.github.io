@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 {% include base_path %}
-{% include dropdown_menu.html%}
+{% include dropdown_menu.html %}
 
 <h2 style="text-decoration: underline;">Course Materials</h2>
 
