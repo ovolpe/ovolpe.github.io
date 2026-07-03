@@ -6,7 +6,7 @@ author_profile: false
 
 {% include base_path %}
 
-## <span style="font-size: 1.4em;">Working Papers</span>
+## Working Papers
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
 Job Market Paper; **Updated:** May 2026<br>
