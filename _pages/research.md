@@ -6,6 +6,8 @@ author_profile: false
 
 {% include base_path %}
 
+<div class="research-page-content" markdown="1">
+
 ## Working Papers
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
@@ -44,3 +46,5 @@ We study peer effects in linear-in-means models with heterogeneous interaction e
 
 <br style="clear: both;">
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
+
+</div>

@@ -89,6 +89,11 @@ a:hover {
   display: block;
 }
 
+.research-page-content {
+  box-sizing: border-box;
+  padding-right: clamp(1rem, 3vw, 2.5rem);
+}
+
 @media (max-width: 1100px) {
   .profile-intro {
     --profile-intro-column-gap: 20px;
