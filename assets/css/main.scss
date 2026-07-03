@@ -50,6 +50,16 @@ a:hover {
   text-decoration: underline !important;
 }
 
+.masthead .masthead__menu-item--lg > a,
+.masthead .masthead__menu-item--lg > a:hover {
+  font-size: 1.2rem;
+  text-decoration: none !important;
+}
+
+.greedy-nav .visible-links .masthead__menu-item--lg > a:before {
+  display: none;
+}
+
 .profile-intro {
   --profile-intro-column-gap: 24px;
 
@@ -69,6 +79,10 @@ a:hover {
 
 .profile-intro__text > :first-child {
   margin-top: 0;
+}
+
+.profile-intro__text h4 {
+  margin-bottom: 1.3em;
 }
 
 .profile-intro__interest-line {
