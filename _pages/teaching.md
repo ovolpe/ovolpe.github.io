@@ -32,8 +32,8 @@ I taught econometrics at the University of Chicago. You can find my course mater
   <li><div class="dropdown">
   <button class="dropbtn">Exams</button>
   <div class="dropdown-content">
-    <a href="/files/teaching/midtermexam.pdf">Midterm Exam</a>
-    <a href="/files/teaching/finalexam.pdf">Final Exam</a>
+    <a href="/files/teaching/midtermexam.pdf">Midterm</a>
+    <a href="/files/teaching/finalexam.pdf">Final</a>
   </div></div> </li></ul>
 
 <br style="clear: both;">
