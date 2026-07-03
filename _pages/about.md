@@ -19,7 +19,7 @@ redirect_from:
 
     <p>You can contact me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.</p>
 
-    <p>I am excited to involve students in research projects. If you are <span class="profile-intro__interest-line">interested, please feel free to email me and fill out <a href="https://forms.gle/pkjh1iUREUHGBe8G6">this form</a>.</span></p>
+    <p>I am excited to involve students in research projects. If you are <span class="profile-intro__interest-line">interested, please feel free to email me and complete <a href="https://forms.gle/pkjh1iUREUHGBe8G6">this form</a>.</span></p>
   </div>
 </div>
 
