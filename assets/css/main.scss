@@ -71,9 +71,17 @@ a:hover {
   margin-top: 0;
 }
 
+.profile-intro__interest-line {
+  display: block;
+}
+
 @media (max-width: 560px) {
   .profile-intro {
     grid-template-columns: 1fr;
     gap: 20px;
+  }
+
+  .profile-intro__interest-line {
+    display: inline;
   }
 }
