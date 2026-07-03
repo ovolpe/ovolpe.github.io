@@ -13,13 +13,13 @@ redirect_from:
   <div class="profile-intro__text">
     <h3><span style="font-size: 1.5em;">Welcome!</span></h3>
 
-    <p>I am an Assistant Professor of Economics at <a href="https://www.economics.harvard.edu">Harvard University</a>. I study topics in labor using tools from econometrics and industrial organization. My recent projects explore the sources of wage inequality and sorting in labor markets, as well as the role of spillovers in social and economic networks. I received my Ph.D. in Economics from the University of Chicago in 2025.</p>
+    <p>I am an Assistant Professor of Economics at <a href="https://www.economics.harvard.edu">Harvard University</a>. I study topics in labor, drawing on tools from econometrics and industrial organization. My recent projects explore the sources of wage inequality and sorting in labor markets, as well as the role of spillovers in social and economic networks. I received my Ph.D. in Economics from the University of Chicago in 2025.</p>
 
     <p>My CV is linked <a href="/files/cv.pdf">here</a>.</p>
 
     <p>You can contact me at: <a href="mailto:ovolpe@fas.harvard.edu">ovolpe@fas.harvard.edu</a>.</p>
 
-    <p>I am excited to involve Harvard students in my research projects. If you are interested, please feel free to email me and fill out <a href="https://forms.gle/pkjh1iUREUHGBe8G6">this form</a>.</p>
+    <p>I am excited to involve students in my research projects. If you are interested, please feel free to email me and fill out <a href="https://forms.gle/pkjh1iUREUHGBe8G6">this form</a>.</p>
   </div>
 </div>
 
