@@ -13,7 +13,7 @@ redirect_from:
   <div class="profile-intro__text">
     <h4><span style="font-size: 1.5em;">Welcome!</span></h4>
 
-    <p>I am an Assistant Professor of Economics at <a href="https://www.economics.harvard.edu">Harvard University</a>. I study topics in labor, drawing on tools from econometrics and industrial organization. My recent projects explore the sources of wage inequality and worker sorting in labor markets, as well as the role of spillovers in social and economic networks. I completed my Ph.D. in Economics from the University of Chicago in 2025.</p>
+    <p>I am an Assistant Professor of Economics at <a href="https://www.economics.harvard.edu">Harvard University</a>. I study topics in labor, drawing on tools from econometrics and industrial organization. My recent projects examine the sources of wage inequality and worker sorting in labor markets, as well as the role of spillovers in social and economic networks. I completed my Ph.D. in Economics from the University of Chicago in 2025.</p>
 
     <p>My CV is linked <a href="/files/cv.pdf">here</a>.</p>
 
