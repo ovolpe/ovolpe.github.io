@@ -29,7 +29,7 @@ redirect_from:
 ## Working Papers
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
-Job Market Paper; **Updated:** May 2026<br>
+Job Market Paper; This Version: May 2026<br>
 
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi2025.pdf) <br>
