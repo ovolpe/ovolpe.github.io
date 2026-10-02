@@ -32,7 +32,7 @@ redirect_from:
 Job Market Paper; This Version: May 2026<br>
 
 
-[**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi2025.pdf) <br>
+[**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi.pdf) <br>
 Revise and Resubmit at _Econometrica_ (2nd Round); [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
 
 
