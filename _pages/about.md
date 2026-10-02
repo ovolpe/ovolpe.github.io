@@ -29,11 +29,11 @@ redirect_from:
 ## Working Papers
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
-Job Market Paper; This Version: May 2026<br>
+This Version: May 2026<br>
 
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi.pdf) <br>
-Revise and Resubmit at _Econometrica_ (2nd Round); [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
+Revised and Resubmitted to _Econometrica_ (2nd Round); [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
 
 
 [**Supply and Demand with Market Heterogeneity**](/files/ghmtv.pdf) <br>
