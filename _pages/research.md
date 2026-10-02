@@ -11,7 +11,7 @@ author_profile: false
 ## Working Papers
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
-Job Market Paper; This Version: May 2026<br>
+This Version: May 2026<br>
 
 <p style="font-size: 0.9em;">
 This paper examines how a firm's labor market power shapes, and is shaped by, its workforce, and evaluates the implications for wage inequality and welfare. Using matched worker-firm panel data from Norway (1995-2018), I develop, identify, and estimate an equilibrium model of the labor market where firms compete for workers who are heterogeneous in both their skills and preferences over wages versus non-wage job amenities. When a firm adjusts its wages, the composition of its workforce shifts, which in turn affects the slope of its labor supply curve. As a result, a firm's wage setting power varies based on which workers it employs. I use the model to draw inference about the incidence of wage markdowns and rents within and across firms, and the implications for wage inequality and sorting. Eliminating market power widens within-firm skill premia by 1.3% while compressing wage differences between firms by 16%, leading to a 4% reduction in total wage inequality and a 3.3 percentage-point (23% of the baseline) decline in the gender pay gap. Variation in wage setting power across firms also generates large allocative inefficiency, with welfare losses from labor market power estimated at 9.6% relative to the competitive benchmark.
@@ -20,7 +20,7 @@ This paper examines how a firm's labor market power shapes, and is shaped by, it
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi.pdf) <br>
-Revise and Resubmit at _Econometrica_ (2nd Round); [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
+Revised and Resubmitted to _Econometrica_ (2nd Round); [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
 
 <p style="font-size: 0.9em;">
 This paper studies social interactions in discrete choice models where individuals interact differently with different network members, conforming to some while distinguishing from others. Under this generalized framework, I show how to learn about endogenous interaction effects from data on individual choices. I propose a partial identification strategy that leverages within-network variation in individual characteristics to account for unobserved contextual effects. I also show how to derive internal instruments to correct for measurement error bias, a key source of endogeneity in models with incomplete information. Lastly, I apply my approach to data from two empirical settings: classroom peer effects in Tennessee primary schools and spillovers in deworming treatment uptake in Kenya. In both settings, I find that differences in social interaction effects, where individuals are more likely to conform to similar peers, play an important role in shaping economic outcomes. 
