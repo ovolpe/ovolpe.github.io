@@ -19,7 +19,7 @@ This paper examines how a firm's labor market power shapes, and is shaped by, it
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
-[**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi2025.pdf) <br>
+[**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi.pdf) <br>
 Revise and Resubmit at _Econometrica_ (2nd Round); [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
 
 <p style="font-size: 0.9em;">
