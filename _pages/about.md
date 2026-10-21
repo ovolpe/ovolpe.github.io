@@ -33,7 +33,7 @@ This Version: May 2026<br>
 
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi.pdf) <br>
-Revised and Resubmitted to _Econometrica_ (2nd Round); [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
+Revised and Resubmitted to _Econometrica_ (2nd Round) · [arXiv](https://arxiv.org/pdf/2610.27324) · [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
 
 
 [**Supply and Demand with Market Heterogeneity**](/files/ghmtv.pdf) <br>
