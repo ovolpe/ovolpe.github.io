@@ -29,15 +29,16 @@ redirect_from:
 ## Working Papers
 
 [**Job Preferences, Labor Market Power, and Inequality**](/files/jmp.pdf) <br>
-This Version: May 2026<br>
+This Version: May 2026
 
 
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi.pdf) <br>
-Revised and Resubmitted to _Econometrica_ (2nd Round) · [arXiv](https://arxiv.org/pdf/2610.27324) · [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
+*Econometrica* (Revise and Resubmit, Second Round) · [arXiv](https://arxiv.org/pdf/2610.27324) · [Supplemental Materials](/files/dcwgsi_supplement.pdf)
 
 
 [**Supply and Demand with Market Heterogeneity**](/files/ghmtv.pdf) <br>
 (with [L. H. de Frahan](https://sites.google.com/view/lancelothenrydefrahan/home), [Ingvil Gaarder](https://sites.google.com/site/ingvilgaarder), [Magne Mogstad](https://sites.google.com/site/magnemogstad), and [Alex Torgovitsky](https://a-torgovitsky.github.io)) <br>
+*Econometrica* (Conditionally Accepted)
 
 
 [**The Linear-in-Means Model with Heterogeneous Interactions**](/files/mtv.pdf) <br>
