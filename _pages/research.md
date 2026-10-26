@@ -19,8 +19,9 @@ This paper examines how a firm's labor market power shapes, and is shaped by, it
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
+
 [**Discrete Choice with Generalized Social Interactions**](/files/dcwgsi.pdf) <br>
-Revised and Resubmitted to _Econometrica_ (2nd Round) · [arXiv](https://arxiv.org/pdf/2610.27324) · [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
+*Econometrica* (Revise and Resubmit, Second Round) · [arXiv](https://arxiv.org/pdf/2610.27324) · [Supplemental Materials](/files/dcwgsi_supplement.pdf)<br>
 
 <p style="font-size: 0.9em;">
 This paper studies social interactions in discrete choice models in which individuals can respond differently to different network members, conforming to some while distinguishing from others. In this generalized framework, I show how to use within-network variation in individual choices to draw inference about differences in endogenous interaction effects, while accounting for unobserved contextual effects. I also show how to construct internal instruments to correct for measurement error bias, a key source of endogeneity in network models with incomplete information. I apply these results to data from two empirical settings: classroom peer effects in Tennessee primary schools and spillovers in deworming treatment uptake in Kenya. In both applications, I find that differences in social interaction effects, with individuals conforming more strongly to similar peers, play a key role in shaping people's choices, with implications for the targeting of policy interventions.
@@ -30,6 +31,7 @@ This paper studies social interactions in discrete choice models in which indivi
 
 [**Supply and Demand with Market Heterogeneity**](/files/ghmtv.pdf) <br>
 (with [L. H. de Frahan](https://sites.google.com/view/lancelothenrydefrahan/home), [Ingvil Gaarder](https://sites.google.com/site/ingvilgaarder), [Magne Mogstad](https://sites.google.com/site/magnemogstad), and [Alex Torgovitsky](https://a-torgovitsky.github.io)) <br>
+*Econometrica* (Conditionally Accepted)<br>
 
 <p style="font-size: 0.9em;">
 We revisit the classic identification problem of separating supply and demand for a homogeneous good using data from multiple markets. We allow markets to be heterogeneous according to unobservables, a feature that arises if there are unobservable differences in consumer preferences or firm technology. We develop a new identification analysis based on hypothetical market types. We use this analysis to show how nonparametric, economically motivated assumptions carry empirical restrictions for a wide range of target parameters, including elasticities, but also welfare parameters, such as consumer surplus. Then, we develop computationally tractable methods for implementing partially identified linear random coefficients models in which the slopes of supply and demand are heterogeneous. We apply these methods to estimate the welfare impact and incidence of sales taxes in the United States.
